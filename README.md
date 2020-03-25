@@ -1,4 +1,4 @@
-# 5-ej-computo-en-paralelo-sin-cuda-
+# 5-ej-computo-en-paralelo-con-cpu
 ejercicios para cómputo en paralelo usando multiprocessing, dask, parallel, openmp
 
 
