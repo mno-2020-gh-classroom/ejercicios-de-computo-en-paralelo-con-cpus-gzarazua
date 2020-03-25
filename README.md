@@ -2,7 +2,7 @@
 ejercicios para cómputo en paralelo usando multiprocessing, dask, parallel, openmp
 
 
-**Se entrega el viernes 3 de abril, tienen todo el día para entregarla**
+**Se entrega el viernes 3 de abril, tienen todo el día para entregar la asignación.**
 
 1. Misma persona `Admin` que aceptó invitación a la tarea de github classroom pasada debe aceptar la invitación a esta tarea. Recuerden que sólo una persona integrante de cada equipo debe aceptar. Invitar a sus integrantes de su equipo al **repo privado**. 
 
