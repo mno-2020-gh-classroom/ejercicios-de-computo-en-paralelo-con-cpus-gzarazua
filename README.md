@@ -23,4 +23,4 @@ ejercicios para cómputo en paralelo usando multiprocessing, dask, parallel, ope
 
 5. Añadir referencias utilizadas sean de páginas de internet o de libros u otro medio.
 
-Binder en esta ocasión no ayuda pues los servidores de google que se utilizan con esta herramienta restringen el uso de CPU's.
+Binder en esta ocasión no nos ayudará pues los servidores de google que se utilizan con esta herramienta restringen el uso de CPU's.
