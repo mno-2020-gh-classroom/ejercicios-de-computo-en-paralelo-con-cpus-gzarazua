@@ -10,6 +10,8 @@ ejercicios para cómputo en paralelo usando multiprocessing, dask, parallel, ope
 
 3. **Crear un nuevo notebook** para realizar el objetivo. No escribir sobre/en las notas de clase.
 
+## IMPORTANTE: IR AL CHAT DE GITTER PUES MODIFIQUÉ LAS INSTRUCCIONES
+
 4. Notas de clase de apoyo con las librerías/paquetes/API's a utilizar:
 
   * [Multiprocessing](https://github.com/ITAM-DS/analisis-numerico-computo-cientifico/blob/master/temas/II.computo_paralelo/2.2.Python_multiprocessing.ipynb)
